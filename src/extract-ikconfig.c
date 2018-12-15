@@ -1,3 +1,13 @@
+/********************************************************************
+* FILENAME : extract-ikconfig.c
+*
+* DESCRIPTION :
+*       Extracting the config file from the zImage file.
+*
+* AUTHOR : KyuHyuk Lee <lee@kyuhyuk.kr>   START DATE : 15 Dec 2018
+*
+********************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
